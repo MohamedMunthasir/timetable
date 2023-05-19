@@ -115,10 +115,12 @@ Execute the program
 </html>
 ```
 # OUPUT
+
 ![OUTPUT](http://mohamedmunthasir2004.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 
 # HTML VALIDATOR
+
 ![HTML VALIDATOR](http://mohamedmunthasir2004.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
