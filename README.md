@@ -115,10 +115,12 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./out.png)
+![out](https://github.com/MohamedMunthasir/timetable/assets/121957086/8b6c37df-7831-451c-b6bc-eaba6609091e)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![valid](https://github.com/MohamedMunthasir/timetable/assets/121957086/fb43a0a9-1b75-4a11-8234-aa5a2bd14bce)
+
 
 # RESULT
 The program for creating slot time table is completed successfully
